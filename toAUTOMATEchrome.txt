@@ -1,0 +1,15 @@
+for day of birth:
+<input type="tel" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" spellcheck="false" tabindex="0" aria-label="দিন" maxlength="2" name="day" value="" id="day" data-initial-value="">
+for month of birth(select element):
+<select class="UDCCJb" jsname="YPqjbf" id="month" aria-labelledby="month-label"><option class="xxcVG" value=""></option><option value="1" class="xxcVG">জানুয়ারি</option><option value="2" class="xxcVG">ফেব্রুয়ারি</option><option value="3" class="xxcVG">মার্চ</option><option value="4" class="xxcVG">এপ্রিল</option><option value="5" class="xxcVG">মে</option><option value="6" class="xxcVG">জুন</option><option value="7" class="xxcVG">জুলাই</option><option value="8" class="xxcVG">অগাস্ট</option><option value="9" class="xxcVG">সেপ্টেম্বর</option><option value="10" class="xxcVG">অক্টোবর</option><option value="11" class="xxcVG">নভেম্বর</option><option value="12" class="xxcVG">ডিসেম্বর</option></select>
+for year of birth:
+<input type="tel" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" spellcheck="false" tabindex="0" aria-label="বছর" maxlength="4" name="year" value="" id="year" data-initial-value="">
+for gender:
+<select class="UDCCJb" jsname="YPqjbf" id="month" aria-labelledby="month-label"><option class="xxcVG" value=""></option><option value="1" class="xxcVG">জানুয়ারি</option><option value="2" class="xxcVG">ফেব্রুয়ারি</option><option value="3" class="xxcVG">মার্চ</option><option value="4" class="xxcVG">এপ্রিল</option><option value="5" class="xxcVG">মে</option><option value="6" class="xxcVG">জুন</option><option value="7" class="xxcVG">জুলাই</option><option value="8" class="xxcVG">অগাস্ট</option><option value="9" class="xxcVG">সেপ্টেম্বর</option><option value="10" class="xxcVG">অক্টোবর</option><option value="11" class="xxcVG">নভেম্বর</option><option value="12" class="xxcVG">ডিসেম্বর</option></select>
+to clear phone number:
+<input type="tel" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="tel" tabindex="0" aria-label="ফোন নম্বর (ঐচ্ছিক)" value="01752304601" id="phoneNumberId" dir="ltr" data-initial-value="01752304601">
+for enter click:
+<div class="VfPpkd-RLmnJb"></div>
+next page
+for 'I agree button':
+<span class="RveJvd snByac">আমি সম্মত<input type="hidden" name="__msgId__" value="F7TABF8fS3E="></span>
